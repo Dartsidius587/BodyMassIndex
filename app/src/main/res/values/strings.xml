@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="inputHeightET">Введите рост</string>
+    <string name="inputWeight">Введите вес</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="result">Результат</string>
+</resources>
